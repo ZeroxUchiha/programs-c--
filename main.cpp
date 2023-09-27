@@ -1,10 +1,9 @@
 #include <iostream>
 
-int main(){
-
-    
+int main(){  
     
     std::cout << "I like pizza!" << '\n';
+     std::cout << "I like pizza!" << '\n';
     std::cout << "its good!" << '\n';
 
     return 0;
