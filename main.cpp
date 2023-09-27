@@ -2,10 +2,12 @@
 
 int main(){  
     
-    int x; // declaration
-    x = 5; // assignement
+    int x = 5;
+    int y =6;
 
-    std::cout <<x;
+    std::cout <<x << '\n';
+    std::cout <<y << '\n';
+
     return 0;
 }
 
