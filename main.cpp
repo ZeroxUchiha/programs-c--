@@ -2,10 +2,10 @@
 
 int main(){  
     
-    std::cout << "I like pizza!" << '\n';
-     std::cout << "I like pizza!" << '\n';
-    std::cout << "its good!" << '\n';
+    int x; // declaration
+    x = 5; // assignement
 
+    std::cout <<x;
     return 0;
 }
 
